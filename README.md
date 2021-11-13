@@ -1,4 +1,4 @@
-# embarcadosprojeto
+# Embarcados; Projeto de Manutenção de um Aquário
 Repositorio com objetivo de registrar os avanços do projeto de sistemas embarcados. 
 Aluna: Anna Flávia Ferreira Nascimento Gomes 
 Turma: T01
