@@ -7,6 +7,7 @@ Como cada peixe possui uma necessidade especifica eu deixarei primeiramente uma 
 A intenção é otimizar o sistema para evitar alarmes desnecessários, por exemplo, chegou a 26 graus e o resfriamento é ativado, em alguns minutos a temperatura volta ao estado normal e não há necessidade de uma intervenção humana. Entretanto, caso a temperatura ultrapasse as medidas 19°C a 27°C, o alarme será ativado e só desligará quando a temperatura voltar a medir entre 21°C a 25°C. 
 
 Link do código em C responsável pela temperatura:
+
 [Link Código](https://github.com/nah2602/embarcadosprojeto/blob/main/sistema-temperatura/tempcod.c)
 
 Link de instrumentos que poderiam ser usados no circuito:
