@@ -8,3 +8,11 @@ A intenção é otimizar o sistema para evitar alarmes desnecessários, por exem
 
 Link do código em C responsável pela temperatura:
 [Link Código](https://github.com/nah2602/embarcadosprojeto/blob/main/sistema-temperatura/tempcod.c)
+
+Link de instrumentos que poderiam ser usados no circuito:
+
+[Link Instrumentos](https://github.com/nah2602/embarcadosprojeto/blob/main/sistema-temperatura/instrumentos.md)
+
+Link sobre a montagem do circuito:
+
+[Link Montagem](https://github.com/nah2602/embarcadosprojeto/blob/main/sistema-temperatura/montagemcircuito.md)
