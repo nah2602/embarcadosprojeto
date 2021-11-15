@@ -4,3 +4,8 @@ Inicialmente como o projeto envolvia o controle de um tanque d'água, o controle
 
 Vou considerar para simulação, um aquário de 1000L, mas que entra em estado de alerta caso o nivel da água esteja maior que 950L, e deva ser mantido com cerca de 900L.
 
+
+Link código:
+
+[Link codigo](https://github.com/nah2602/embarcadosprojeto/blob/main/sistema-nivel/nivelcod.c)
+
