@@ -4,7 +4,7 @@ Inicialmente como o projeto envolvia o controle de um tanque d'água, o controle
 
 Vou considerar para simulação, um aquário de 1000L, mas que entra em estado de alerta caso o nivel da água esteja maior que 950L, e deva ser mantido com cerca de 900L.
 
-Obs: O sistema foi mudado adicionando a retirada da água que será necessária para troca parcial da água ;)
+Obs: O sistema foi mudado adicionando a retirada da água que será necessária para troca parcial da água ;) No entanto a atualização do código estará apenas na proxima pasta que inclui PH e Amonia, porque estes indicadores serão necessários para o funcionamento. 
 
 **Link código:**
 
