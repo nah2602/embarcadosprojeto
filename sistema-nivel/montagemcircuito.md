@@ -1,4 +1,4 @@
-# Monategm circuito Nivel 
+# Monategem circuito Nivel 
 
 A  montagem através do TinkerCad é mais simples que a do sistema de temperatura. 
 Uma vez que a parte do alarme já esta alocada, foi apenas adicionado o motor do sistema no digital 10, junto com o Led que afirma o funcionamento do sistema, e a boia alocada no A1, ligada também ao 5v inferior  com o GND superior. 
